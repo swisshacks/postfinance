@@ -95,3 +95,8 @@ Please include judging criteria % here (empty in Case Development Framework)
 * Ramona Koksa (Jury Main Member 1)
 * Kevin Rauner (Jury Member 2)
 * Timur and Roman - Friday/ Saturday
+
+## Prize: 
+* Giveaway bags
+* An invitation to Defdays at PostFinance in December to present
+
