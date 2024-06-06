@@ -14,16 +14,17 @@ The primary users of this solution are Software Developers who are responsible f
 
 Use Case / Business Case:
 The primary goal of this project is to revolutionize API testing in the banking sector by leveraging Generative AI. Participants are encouraged to come up with innovative use cases that demonstrate the effectiveness of GenAI in automating test case generation and debugging processes.
- <u>Use Case</u
+
+Use Case: 
 * The solution aims to significantly reduce the time and effort required for API testing, allowing developers to focus more on product development.
 * By automating test case generation and debugging, the solution ensures comprehensive test coverage and identifies bugs efficiently, thereby improving overall product quality.
 * Business stakeholders benefit from accurate and comprehensive testing, ensuring that business requirements are met and reflected in the final product.
   
- <u>Business Case</u
-* By implementing this solution, banks and financial institutions can:
-  Reduce the time and cost associated with manual testing processes.
-  Improve the efficiency and accuracy of API testing, leading to higher product quality.
-  Enhance collaboration between development and business teams, ensuring that business requirements are accurately reflected in the testing process.
+Business Case: 
+By implementing this solution, banks and financial institutions can:
+* Reduce the time and cost associated with manual testing processes.
+* Improve the efficiency and accuracy of API testing, leading to higher product quality.
+* Enhance collaboration between development and business teams, ensuring that business requirements are accurately reflected in the testing process.
 
 Overall, the use case for this solution revolves around enhancing efficiency, reducing manual effort, and improving the quality of API testing in the banking sector. Participants are encouraged to explore use cases that demonstrate these benefits effectively.
 
@@ -34,11 +35,10 @@ Overall, the use case for this solution revolves around enhancing efficiency, re
 3.	Optionally, implement a feature for root cause analysis, which identifies the specific API or application responsible for errors. Pinpointing the exact API or application involved in the error will help simplifying the debugging process and improve overall testing efficiency.
 
 Presentation Prototype: 
-Format: 
-•	Live demonstration with the Challenge dataset
+* Live demonstration with the Challenge dataset
 Key elements:
-•	Source Code
-•	Pitfalls, Learnings and best way to work with GenAI
+* Source Code
+* Pitfalls, Learnings and best way to work with GenAI
 
 ## The Pitch:
 
