@@ -20,7 +20,8 @@ Use Case:
 * By automating test case generation and debugging, the solution ensures comprehensive test coverage and identifies bugs efficiently, thereby improving overall product quality.
 * Business stakeholders benefit from accurate and comprehensive testing, ensuring that business requirements are met and reflected in the final product.
   
-Business Case: 
+Business Case:
+
 By implementing this solution, banks and financial institutions can:
 * Reduce the time and cost associated with manual testing processes.
 * Improve the efficiency and accuracy of API testing, leading to higher product quality.
