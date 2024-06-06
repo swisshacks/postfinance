@@ -7,15 +7,20 @@ We invite you to leverage Generative AI to transform the way APIs are tested in 
 By automating test case generation and debugging, this solution not only eases the workload of developers but also ensures that business requirements are accurately reflected in the testing process, thereby improving overall product quality and efficiency.
 
 What is the current problem?
+
 In the banking sector, API testing is a time-consuming and often manual process. Developers spend significant time writing and debugging test cases, often without comprehensive specifications. This manual approach not only consumes time but also leads to inefficiencies and overlooks critical details. With this project, we aim to disrupt manual debugging processes, demonstrating the value of comprehensive specifications in improving testing efficiency and quality. By automating test case generation and debugging using Generative AI, we seek to close these gaps and enhance the overall quality of testing services in the banking sector.
 
 Who are the users of this solution?
+
 The primary users of this solution are Software Developers who are responsible for API development and testing. Additionally, Business stakeholders involved in defining technical and business requirements will benefit from this solution.
 
 Use Case / Business Case:
-The primary goal of this project is to revolutionize API testing in the banking sector by leveraging Generative AI. Participants are encouraged to come up with innovative use cases that demonstrate the effectiveness of GenAI in automating test case generation and debugging processes.
+
+* The primary goal of this project is to revolutionize API testing in the banking sector by leveraging Generative AI. 
+* Participants are encouraged to come up with innovative use cases that demonstrate the effectiveness of GenAI in automating test case generation and debugging processes.
 
 Use Case: 
+
 * The solution aims to significantly reduce the time and effort required for API testing, allowing developers to focus more on product development.
 * By automating test case generation and debugging, the solution ensures comprehensive test coverage and identifies bugs efficiently, thereby improving overall product quality.
 * Business stakeholders benefit from accurate and comprehensive testing, ensuring that business requirements are met and reflected in the final product.
