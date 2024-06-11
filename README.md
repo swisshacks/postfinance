@@ -1,5 +1,5 @@
 # PostFinance Challenge
-# Revolutionize API Testing in Banking with GenAI
+## Revolutionize API Testing in Banking with GenAI
 
 Case Introduction:
 
@@ -24,7 +24,7 @@ Use Case:
 * The solution aims to significantly reduce the time and effort required for API testing, allowing developers to focus more on product development.
 * By automating test case generation and debugging, the solution ensures comprehensive test coverage and identifies bugs efficiently, thereby improving overall product quality.
 * Business stakeholders benefit from accurate and comprehensive testing, ensuring that business requirements are met and reflected in the final product.
-  
+
 Business Case:
 
 By implementing this solution, banks and financial institutions can:
@@ -35,7 +35,7 @@ By implementing this solution, banks and financial institutions can:
 Overall, the use case for this solution revolves around enhancing efficiency, reducing manual effort, and improving the quality of API testing in the banking sector. Participants are encouraged to explore use cases that demonstrate these benefits effectively.
 
 
-## Expected Outcome: 
+### Expected Outcome: 
 1.	Develop a framework/program capable of generating test code from technical and business descriptions, automating the tedious process of manual test case creation. This framework should intelligently analyze both technical and business-like specifications to ensure comprehensive test coverage.
 2.	Utilize Generative AI to identify bugs efficiently and effectively. The final product should not only identify bugs but also provide helpful error messages or hints, aiding developers in the debugging process.
 3.	Optionally, implement a feature for root cause analysis, which identifies the specific API or application responsible for errors. Pinpointing the exact API or application involved in the error will help simplifying the debugging process and improve overall testing efficiency.
@@ -46,27 +46,28 @@ Key elements:
 * Source Code
 * Pitfalls, Learnings and best way to work with GenAI
 
-## The Pitch:
+### The Pitch:
 
 Insert Pitchdeck here
 
-## Deep Dive Slides:
+### Deep Dive Slides:
 
 Insert Deep Dive Slides here
 
-## Further Information:
+### Further Information:
 
 Insert further information here
 
-## Resources:
+### Resources:
 
 To effectively solve this case, we will provide you with a Micro-Bank and Data:
-* Open-source code and data for testing purposes are available on #GitHub @postfinance/Swiss-Hacks-2024#.
+* Open-source code and data for testing purposes are available on [@postfinance/Swiss-Hacks-2024](https://github.com/postfinance/Swiss-Hacks-2024).
   This includes related OpenAPI specifications and user stories.
   The Microservice is runnable, serving as a test object.
 * A list of users with bank accounts is provided for validation and testing purposes.
 * Interfaces of Microservice: Synchronous HTTP/s.
 * For the final solution and presentation, the same data will be used with minor alterations to test the efficacy of GenAI in handling unknown documents or services.
+
 These datasets and resources can be used in developing, testing, and presenting your solution.
 
 To ensure the successful completion of this project, the following technologies are vital:
@@ -86,7 +87,7 @@ To ensure the successful completion of this project, the following technologies 
 * Additional:
   Chocolate (optional, but highly recommended for productivity enhancement 😉).
 
-## Judging Criteria:
+### Judging Criteria:
 
 Please include judging criteria % here (empty in Case Development Framework) 
 * Creativity (XX%) - How good the model or the design of the model is? 
@@ -94,14 +95,14 @@ Please include judging criteria % here (empty in Case Development Framework)
 * Technology (XX%) - How many bugs could be identified? How good a code is from the generator?
 
 
-## Point of Contact:
+### Point of Contact:
 
 * Christian Sager (project representative)
-* Ramona Koksa (Jury Main Member 1)
+* [Ramona Koksa](https://github.com/ramonator00) (Jury Main Member 1)
 * Kevin Rauner (Jury Member 2)
-* Timur and Roman - Friday/ Saturday
+* [Timon Borter](https://github.com/bbortt) (Nerd)
 
-## Prize: 
+### Prize: 
+
 * Giveaway bags
-* An invitation to Defdays at PostFinance in December to present
-
+* An invitation to DevDays at PostFinance in December to present
