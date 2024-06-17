@@ -48,15 +48,11 @@ Key elements:
 
 ### The Pitch:
 
-Insert Pitchdeck here
+[Pitchdeck](Pitch.pdf)
 
 ### Deep Dive Slides:
 
-Insert Deep Dive Slides here
-
-### Further Information:
-
-Insert further information here
+[Deep Dive Slides](Deep-Dive.pdf)
 
 ### Resources:
 
