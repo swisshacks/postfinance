@@ -1,4 +1,13 @@
 # PostFinance Challenge
+
+**Right after cloning the repository, run:**
+
+```shell
+git lfs install
+git submodule init
+git submodule update
+```
+
 ## Revolutionize API Testing in Banking with GenAI
 
 Case Introduction:
@@ -57,9 +66,10 @@ Key elements:
 ### Resources:
 
 To effectively solve this case, we will provide you with a Micro-Bank and Data:
-* Open-source code and data for testing purposes are available on [@postfinance/Swiss-Hacks-2024](https://github.com/postfinance/Swiss-Hacks-2024).
-  This includes related OpenAPI specifications and user stories.
-  The Microservice is runnable, serving as a test object.
+* Open-source code and data for testing purposes are available:
+  * in the submodule [`./source`](source).
+  * in the repository [@postfinance/Swiss-Hacks-2024](https://github.com/postfinance/Swiss-Hacks-2024).
+  * This includes related OpenAPI specifications and user stories. The Microservice is runnable, serving as a test object.
 * A list of users with bank accounts is provided for validation and testing purposes.
 * Interfaces of Microservice: Synchronous HTTP/s.
 * For the final solution and presentation, the same data will be used with minor alterations to test the efficacy of GenAI in handling unknown documents or services.
