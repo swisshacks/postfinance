@@ -68,7 +68,7 @@ Key elements:
 To effectively solve this case, we will provide you with a Micro-Bank and Data:
 * Open-source code and data for testing purposes are available:
   * in the submodule [`./source`](source).
-  * in the repository [@postfinance/Swiss-Hacks-2024](https://github.com/postfinance/Swiss-Hacks-2024).
+  * in the repository [@postfinance/swiss-hacks](https://github.com/postfinance/swiss-hacks).
   * This includes related OpenAPI specifications and user stories. The Microservice is runnable, serving as a test object.
 * A list of users with bank accounts is provided for validation and testing purposes.
 * Interfaces of Microservice: Synchronous HTTP/s.
